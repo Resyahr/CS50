@@ -1,0 +1,50 @@
+.link {
+    color: rgb(51, 51, 51);
+}
+
+.logo {
+    margin-top: 8em;
+}
+
+.no-outline {
+    outline: none;
+    border: 0.3px solid #afada2f8;
+    width: 580px;
+    height: 45px;
+    padding-left: 45px;
+    padding-right: 40px;
+}
+
+.no-outline:hover {
+    box-shadow: 0 0 6px rgb(35 173 255);
+    transition: 0.3s;
+}
+
+.button{
+    font-size: 14px;
+    height: 40px;
+    width: 120px;
+    border: 0.3px #e9e8e8 solid;
+    transition: 0.3s;
+}
+
+.button:active {
+    border-color: rgb(53, 126, 194);
+}
+
+.button2 {
+    font-size: 16px;
+    height: 40px;
+    width: 120px;
+    transition: 0.3s;
+    margin-right: 10px;
+}
+
+.button2:hover {
+    background-color: darkblue;
+}
+
+.inputs {
+    width: 500px;
+    padding-left: 10px;
+}
